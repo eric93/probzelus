@@ -17,7 +17,7 @@ More information about ProbZelus are available in the paper [Reactive Probabilis
 ## Install
 
 The easiest way to install probzelus is via [Opam](https://opam.ocaml.org/), the OCaml package manager.
-You first need to install [openblas](https://www.openblas.net/).
+You first need to install [openblas](https://www.openblas.net/) and `rsync`.
 
 Then pin the packages defined in this repo to add them to opam.
 ```
